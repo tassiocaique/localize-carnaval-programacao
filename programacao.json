@@ -1,0 +1,86 @@
+{
+  "friday": {
+    "truck": [
+      "Pagodão Jackson Medrado",
+      "Banda Sem Radar",
+      "Banda Mirage (Bloco Pinico)",
+      "André Mendes",
+      "Super Dan",
+      "Bell Marques",
+      "Sérgio do Forró",
+      "Branquinho de Jacobina",
+      "Oz Bambaz",
+      "Banda Nanaê",
+      "HitPan",
+      "Natinho Campim (As Pevertidas)"
+    ],
+    "stage": [
+      "Real Som",
+      "Marreta é Massa",
+      "Leo Santana",
+      "Lenno"
+    ],
+    "alternative": [
+      "DJ Jocélio Bello",
+      "Banda Lyra",
+      "P1 Rapper's",
+      "Sanitário Sexy",
+      "Sine Calmon e Raquel Wesley"
+    ]
+  },
+  "saturday": {
+    "truck": [
+      "Daly Samba",
+      "Voa Voa",
+      "Trio Granah",
+      "Batucadas de Samba",
+      "Baile dos Caretas",
+      "Rubinho (Bloco na Bruxa)",
+      "Afoxé Filhos de Zaze",
+      "Timbalada",
+      "Luiz Caldas",
+      "Alan Cleber (Bloco Axé Pop)",
+      "Thiago Carvalho (Aula Vaga)",
+      "La Fúria (Bloco Aêêê)"
+    ],
+    "stage": [
+      "Forró Di Calli",
+      "Mano Walter",
+      "Alinne Rosa"
+    ],
+    "alternative": [
+      "Nosso Samba",
+      "Samba de Véio da Ilha do Rodeadouro",
+      "Kidé Falaê",
+      "Dubaia (Tributo a Chico Scince)",
+      "Maglore"
+    ]
+  },
+  "sunday": {
+    "truck": [
+      "Orq. Sapupra e Pedro Biloto",
+      "New Bis",
+      "Xandão da Bahia",
+      "Ney Alves",
+      "Simony (Pimentinha)",
+      "Os Tropicalistas com Missinho e Convidados",
+      "Camarote Andante Aloha Vip",
+      "Maracatu Baque Opará",
+      "Banda Mametto",
+      "Bloco Tequila",
+      "Samba de Mezza e Lenno (Bloco Meu no Seu)",
+      "Gabriel Diniz",
+      "Selva Branca",
+      "Psirico"
+    ],
+    "stage": [
+      "Helinho Ventura",
+      "Aviões do Forró",
+      "Tayrone"
+    ],
+    "alternative": [
+      "Gatos Multicores (17h - Atração Infantil)",
+      "Matingueiros"
+    ]
+  }
+}
